@@ -11,7 +11,7 @@
 - **Backend:** Firebase, REST APIs
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](www.linkedin.com/in/ruzana-m-3a468285)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruzana-m-3a468285/)
 
 
 
